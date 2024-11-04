@@ -1,0 +1,7 @@
+body{Background-color:black;color:silver;font-family:Arial, Helvetica, sans-serif;}
+h1{color:goldenrod}
+a{color:rgb(248, 211, 117)}
+a:hover{color:lightsteelblue}
+ul li:hover{color:steelblue}
+ul li::before{content:"👉"}
+p::first-letter{color:khaki;font-size: 200%}
